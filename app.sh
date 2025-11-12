@@ -1,1 +1,0 @@
-for i in {1...1000}; do touch "file$i.txt"; done
